@@ -8,10 +8,6 @@
   }
 }
 
-body{
-  justify-content: center;
-}
-
 @media (min-width: 992px) {
   .site-header {
     padding-top: 15px;
